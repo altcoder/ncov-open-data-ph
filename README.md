@@ -8,7 +8,7 @@ Repository of machine readable data for tracking COVID-19 in the Philippines.
 ## Getting Started
 
 All datasets will be available through a web frontend and an API endpoint soon.
-But the quickest way to work on this datasets is by cloning this repo.
+But the quickest way to work on these datasets is by cloning this repo.
 
 ```
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
