@@ -22,12 +22,15 @@ $ cd [REPO_NAME]
 2. Follow the **Step 1** and **Step 2*** of the insturctions below to generate
    an Google API credentials and install Google Client Library using pip.
 
-[Quickstart Access to Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
+[Grant Access to Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
 
 
 3. Run quickstart.py included in this repo. The script will generate the dataset
    in csv format inside `ouput` directory.
 
+```
+$ python quickstart.py
+```
 
 ### Official DOH NCOV Case Tracker Dataset
 - You can access source dataset of the [DOH NCOV Case Tracker dashboard](https://ncovtracker.doh.gov.ph/). 
