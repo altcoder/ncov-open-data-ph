@@ -19,10 +19,10 @@ $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 ```
 
-2. Follow the **Step 1** and **Step 2*** of the insturctions below to generate
+2. Follow **Step 1** and **Step 2** of the insturctions below to generate
    an Google API credentials and install Google Client Library using pip.
 
-[Grant Access to Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
+[Link to Grant Access to Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
 
 
 3. Run quickstart.py included in this repo. The script will generate the dataset
