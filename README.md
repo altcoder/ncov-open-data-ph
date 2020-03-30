@@ -20,7 +20,7 @@ $ cd [REPO_NAME]
 ```
 
 2. Follow **Step 1** and **Step 2** of the insturctions below to generate
-   an Google API credentials and install Google Client Library using pip.
+   an your Google API credentials.
 
 [Link to Grant Access to Google Sheets](https://developers.google.com/sheets/api/quickstart/python)
 
