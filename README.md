@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/altcoder/ncov-open-data-ph/master/LICENSE)
 [![Chat with us at https://gitter.im/ncov-open-data-ph](https://badges.gitter.im/ncov-open-data-ph.svg)](https://gitter.im/ncov-open-data-ph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+** THIS PROJECT IS NO LONGER UPDATED. PLEASE USE DOH's CSV FILES AVAILABLE AT [PUBLIC GDRIVE](https://drive.google.com/drive/u/0/folders/10VkiUA8x7TS2jkibhSZK1gmWxFM-EoZP) **
+
 Generate machine readable data for tracking COVID-19 in the Philippines. 
 
 Data source from Google Sheets maintained by [r/Coronavirus_PH subreddit
